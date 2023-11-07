@@ -1,4 +1,4 @@
-Disclaimer: Feel free to use any of functions as your own. Therefore, take responsibility yourself for any outcomes of using the those functions.
+Disclaimer: Feel free to use any of functions as your own. Do not forget to review the results obtained through these functions.
 
 mdlSWWM.vb - It is a customized version of the swmm5_iface.bas published by EPA on using SWMM engine. This module can be used with visual studio dotnet and can be used to access the result tables in the rpt file saved during simulation run.
 
